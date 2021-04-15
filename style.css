@@ -1,0 +1,81 @@
+body{
+    background-color: #74D3AE;
+    font-size: 20px ;
+    color: #083D77;
+    font-family: "bitter", sans-serif;
+    }
+
+    h1{
+        position: relative;
+        top: 3px;
+    }
+
+   h2{
+    display: block;
+    text-align: center;
+    font-size: 3em;  
+   }
+   
+    
+    .picturesContent{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 25%;
+        border-radius: 20%;
+    }
+
+    .selectionContent{
+        line-height: 2em;
+        position: relative;
+        bottom: 20px;
+        text-decoration: none;
+        color: #083D77;
+        
+        }
+
+        .selectionContent:hover{
+        color: #FFDF00;
+        font-weight:bolder ;
+            }
+
+    .textContent{
+            position: relative;
+            top: 40px;
+            text-decoration: none;
+        }
+
+        .intextContent{
+            text-decoration:underline ;
+            color: #083D77;
+         }
+
+         .intextContent:hover{
+             color: #FFDF00;
+             font-weight: bolder;
+         }
+
+         .iconContent{
+             width: 40px;
+              }
+
+            
+
+
+
+
+
+
+
+
+
+
+         
+/* 
+guidelines: classico/casual/fun/bold
+Do que fazer :
+
+1 - diminuir indice e colocar no canto superior esquerdo a foto (futuro menu hamburguer)
+2 - mudar icones 
+3 - drop down com skills
+4 - adicionar menu cascata com projetos 
